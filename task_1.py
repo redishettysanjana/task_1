@@ -1,4 +1,4 @@
-# Sum of two numbers
+# Sum of two Numbers
 num1 = int(input("Enter the first number:"))
 num2 = int(input("Enter the second number:"))
 sum = num1+num2
@@ -11,7 +11,7 @@ if num % 2 == 0:
 else:
     print(f"{num} is a odd number")
 
-# Factorial calculation
+# Factorial Calculation
 number=int(input("Enter the number:"))
 factorial=1
 for i in range(1,number+1):
@@ -27,26 +27,26 @@ for i in range(n):
     a, b = b, a + b
 print()
 
-# String reverse
+# String Reverse
 string=input("Enter a text:")
 a=string[::-1]
 print(f"The reversed String is:{a}")
 
-# Palindrome check
+# Palindrome Check
 x = input("Enter a word:")
 if x == x[::-1]:
     print("It is a Palindrome")
 else:
     print("It is not a Palindrome")
 
-# Leap year chack
+# Leap Year Check
 year = int(input("Enter the year:"))
 if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
     print("It's a leap year")
 else:
     print("it's not a leap year")
 
-#Armstrong number
+# Armstrong Number
 num = int(input("\nEnter a number: "))
 order = len(str(num))
 sum_val = sum(int(digit) ** order for digit in str(num))
