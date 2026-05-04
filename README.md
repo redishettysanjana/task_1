@@ -55,4 +55,4 @@ This project is created to:
 
 ## 📌 Note
 
-This repository is ideal for beginners who are starting their journey in Python programming.
+This repository is ideal for beginners who are starting their journey in Python Programming.
