@@ -1,7 +1,7 @@
 # Sum of two Numbers
-num1 = int(input("Enter the first number:"))
-num2 = int(input("Enter the second number:"))
-sum = num1+num2
+Num1 = int(input("Enter the first number:"))
+Num2 = int(input("Enter the second number:"))
+sum = Num1+Num2
 print(f"The sum of two numbers is:{sum}")
 
 # Odd or Even Checker
