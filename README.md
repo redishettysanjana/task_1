@@ -1,6 +1,6 @@
 ## 📌 Basic Python Programs Collection
 
-This repository contains a collection of beginner-friendly Python programs that cover fundamental concepts of programming. These examples are simple, easy to understand, and helpful for practicing logic building.
+This repository contains a collection of beginner-friendly python programs that cover fundamental concepts of programming. These examples are simple, easy to understand, and helpful for practicing logic building.
 
 ---
 
@@ -35,7 +35,7 @@ This repository contains a collection of beginner-friendly Python programs that 
 ## 🛠️ Technologies Used
 
 * Python (Core Concepts)
-
+  
   * Input/Output
   * Conditional Statements
   * Loops
