@@ -2,14 +2,14 @@
 Num1 = int(input("Enter the first number:"))
 Num2 = int(input("Enter the second number:"))
 sum = Num1+Num2
-print(f"The sum of two numbers is:{sum}")
+print(f"The Sum of two numbers is:{sum}")
 
 # Odd or Even Checker
 num = int(input("Enter the number:"))
 if num % 2 == 0:
-    print(f"{num} is an even number")
+    print(f"{num} is an even Number")
 else:
-    print(f"{num} is a odd number")
+    print(f"{num} is a odd Number")
 
 # Factorial Calculation
 number=int(input("Enter the number:"))
@@ -42,9 +42,9 @@ else:
 # Leap Year Check
 year = int(input("Enter the year:"))
 if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
-    print("It's a leap year")
+    print("It's a Leap year!")
 else:
-    print("it's not a leap year")
+    print("it's not a Leap year")
 
 # Armstrong Number
 num = int(input("\nEnter a number: "))
